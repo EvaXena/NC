@@ -72,7 +72,6 @@ init_kwargs = {
     "subfolder": None,
     "offload_folder": "offload",
     "cache_dir": None,
-    "revision": "main",
     "token": None,
 }
 
